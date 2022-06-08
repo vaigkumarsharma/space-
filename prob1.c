@@ -9,7 +9,7 @@ int main(){
     daysr=days%360-month*30;
     printf("no of year: %f\n no of month: %f\n no of days: %f",year ,month,daysr);
     return 0;
-    // ye wala aacha hai 
+     
     // 10 bajne wale hai 
     
 }
